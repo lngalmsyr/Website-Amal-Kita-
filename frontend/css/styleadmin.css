@@ -1,0 +1,57 @@
+.login-form {
+  width: 30vw;
+  margin: 15vw auto;
+  font-size: 1vw;
+}
+.login-form form {
+  margin-bottom: 15vw;
+  background: #f7f7f7;
+  box-shadow: 0px 1vw 2vw rgba(0, 0, 0, 0.3);
+  padding: 5vw;
+}
+.login-form h2 {
+  margin: 5 5 15vw;
+}
+.form-control, .btn {
+  min-height: 1vw;
+  border-radius: 5vw;
+}
+.btn {        
+  font-size: 1vw;
+  font-weight: bold;
+}
+/*bacground login*/
+
+.bg-footer {
+    background-image: url(assets/bgdaun.jpg);
+    height: 15vw;
+    background-size: cover;
+}
+
+/*text*/
+.text-login {
+  font-size: 6vw;
+  margin-top: 5vw;
+  padding-left: 7vw;
+  color: white;
+  font-family: Poppins;
+}
+.text {
+  font-size: 3vw;
+  margin-top: 0vw;
+  padding-left: 3vw;
+  color: white;
+  font-family: Poppins;
+}
+.hr1{
+  border: 0.3vw solid whitesmoke;
+  font-weight: 5vw;
+}
+
+/*logo*/
+.logo1 {
+  width: 11vw;
+  height: 5vw;
+  color: #E5E5E5;
+  border-radius: 8vw;
+}

@@ -1,0 +1,46 @@
+.sidenav {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    background-color: #00643c;
+}
+
+.logo-admin {
+    width: 13vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2vw;
+    margin-bottom: 1vw;
+    border-radius: 5vw;
+}
+
+.menu-sidenav {
+    font-size: 1.2vw;
+    padding-top: 3.8vw;
+    padding-bottom: 3.8vw;
+    text-align: center;
+}
+
+.sidenav a {
+    text-decoration: none;
+    color: white;
+}
+
+.home-content {
+    text-align: center;
+    padding-top: 20vw;
+}
+
+.nav-admin {
+    background-color: #00643c;
+}
+
+.nav-admin span {
+    font-size: 1vw;
+    color: white;
+}
+
+.nav-admin a {
+    text-decoration: none;
+    color: white;
+}
